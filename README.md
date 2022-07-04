@@ -5,7 +5,7 @@ Preparation for editing is done in an excel file.
 The exel in csv cannot be saved due to the application of a common style to the fields.
 In exel, comments on editing a csv file (deleting a line, filling in a field if necessary)
 
-----------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 
 Нужно передать csv файла определенного формата в базу данных, предварительно отредактировав . 
 Подготовка к редактированию производится в exel файле. 
